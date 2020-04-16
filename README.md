@@ -1,4 +1,4 @@
-#Shake app
+Shake app
 
 conists of two screens
 first is a text input
